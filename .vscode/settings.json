@@ -1,0 +1,6 @@
+{
+  "go.inferGopath": false,
+  "files.exclude": {
+    "**/.vscode": true
+  }
+}
